@@ -15,3 +15,4 @@ expressed in terms of features of the tape, such as “contains at least two con
 blue.” The Goal statements, test tapes, and outcomes will be expressed in text files that are loaded from the File menu.
 
 A screenshot of the implementation is given below.
+![alt tag](https://raw.github.com/krahulreddyiiit/RobotFactory/master/misc.jpg)
